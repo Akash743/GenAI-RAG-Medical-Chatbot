@@ -130,3 +130,4 @@ open up localhost:
    - OPENAI_API_KEY
 
     
+# GenAI-RAG-Medical-Chatbot
