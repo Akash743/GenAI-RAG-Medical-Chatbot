@@ -1,0 +1,14 @@
+sentence-transformers==2.2.2
+langchain
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+
+#Below added to run setup.py file which will create this whole project as a package. 
+# After running this requirements.txt, check packages using - pip list. This will show this package as well.
+-e .
